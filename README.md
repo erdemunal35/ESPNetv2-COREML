@@ -1,12 +1,12 @@
 # Real-time Video Segmentation on iPhone
 
-This repository provides analysis of different segmentation CoreML models on predicting water surface of a given video input. Video is recorded via Iphone camera in real-time and prediction has been done also in real-time. CoreML models are originally trained with PyTorch and later then converted to CoreML from .pth. You can find [here](https://github.com/erdemunal35/Water-Segmentation-Networks) more information about how these models are constructed, trained with PyTorch and converted to CoreML.
+This repository provides analysis of different segmentation CoreML models on predicting water surface. CoreML models were originally trained with PyTorch and later converted to CoreML from .pth. You can find [the main repository](https://github.com/erdemunal35/Water-Segmentation-Networks) for more information about how these models were constructed, trained with PyTorch and converted to CoreML. Currently, only linknet-mobilenetv2.mlmodel is available in the repository since other models exceed 25Mb threshold.
 
 The test [video](https://www.youtube.com/watch?v=K1QICrgxTjA&t=131s&ab_channel=LoungeVFilms-RelaxingMusicandNatureSounds) used in the illustrations below is recorded via Iphone XR camera and the mask prediction is computed in real-time.
 
 <table>
     <tr>
-        <td colspan=2 align="center"><b>Real-time water surface segmentation using different encoder-decoder pairs on iPhone XR<b></td>
+        <td colspan=3 align="center"><b>Real-time water surface segmentation using different encoder-decoder pairs on iPhone XR<b></td>
     </tr>
     <tr>
         <td>
@@ -28,22 +28,22 @@ The test [video](https://www.youtube.com/watch?v=K1QICrgxTjA&t=131s&ab_channel=L
 
 <table>
     <tr>
-        <td colspan=2 align="center"><b>Real-time water surface segmentation using different encoder-decoder pairs on iPhone XR<b></td>
+        <td colspan=2 align="center"><b>Layer distributions of CoreML models<b></td>
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/linknet-mobilenetv2.png" alt="Layer distribution of linknet-mobilenetv2.mlmodel"></img><p>Layer distribution of linknet-mobilenetv2.mlmodel</p>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/linknet-mobilenetv2.png" alt="Layer distribution of linknet-mobilenetv2.mlmodel"></img><p>linknet-mobilenetv2.mlmodel</p>
         </td>
         <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/linknet-resnet18.png" alt="Seg demo on iPhoneXR"></img>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/linknet-resnet18.png" alt="Layer distribution of linknet-resnet18.mlmodel"></img><p>linknet-resnet18.mlmodel</p>
         </td>
     </tr>
     <tr>
     <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/unet-mobilenetv2.png" alt="Seg demo on iPhoneXR"></img>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/unet-mobilenetv2.png" alt="Layer distribution of unet-mobilenetv2.mlmodel"></img><p>unet-mobilenetv2.mlmodel</p>
         </td>
         <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/unet-resnet18.png" alt="Seg demo on iPhoneXR"></img>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/unet-resnet18.png" alt="Layer distribution of unet-resnet18.mlmodel"></img><p>unet-resnet18.mlmodel</p>
         </td>
     </tr>
 </table>
