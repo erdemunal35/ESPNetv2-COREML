@@ -10,18 +10,18 @@ The test [video](https://www.youtube.com/watch?v=K1QICrgxTjA&t=131s&ab_channel=L
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/linknet_mobilenetv2_gif.gif?raw=true" alt="Seg demo on iPhoneXR"></img>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/linknet_mobilenetv2_gif.gif?raw=true" alt="Seg demo on iPhoneXR"></img>
         </td>
         <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/linknet_resnet18_gif.gif?raw=true" alt="Seg demo on iPhoneXR"></img>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/linknet_resnet18_gif.gif?raw=true" alt="Seg demo on iPhoneXR"></img>
         </td>
     </tr>
     <tr>
     <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/unet_mobilenetv2_gif.gif?raw=true" alt="Seg demo on iPhoneXR"></img>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/unet_mobilenetv2_gif.gif?raw=true" alt="Seg demo on iPhoneXR"></img>
         </td>
         <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/unet_resnet18_gif.gif?raw=true" alt="Seg demo on iPhoneXR"></img>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/unet_resnet18_gif.gif?raw=true" alt="Seg demo on iPhoneXR"></img>
         </td>
     </tr>
 </table>
@@ -32,18 +32,18 @@ The test [video](https://www.youtube.com/watch?v=K1QICrgxTjA&t=131s&ab_channel=L
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/linknet_mobilenetv2_gif.gif?raw=true" alt="Seg demo on iPhoneXR"></img>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/linknet-mobilenetv2.png" alt="Layer distribution of linknet-mobilenetv2.mlmodel"></img><p>Layer distribution of linknet-mobilenetv2.mlmodel</p>
         </td>
         <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/linknet_resnet18_gif.gif?raw=true" alt="Seg demo on iPhoneXR"></img>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/linknet-resnet18.png" alt="Seg demo on iPhoneXR"></img>
         </td>
     </tr>
     <tr>
     <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/unet_mobilenetv2_gif.gif?raw=true" alt="Seg demo on iPhoneXR"></img>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/unet-mobilenetv2.png" alt="Seg demo on iPhoneXR"></img>
         </td>
         <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/unet_resnet18_gif.gif?raw=true" alt="Seg demo on iPhoneXR"></img>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/unet-resnet18.png" alt="Seg demo on iPhoneXR"></img>
         </td>
     </tr>
 </table>
