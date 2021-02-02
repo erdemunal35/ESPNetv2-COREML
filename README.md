@@ -32,18 +32,18 @@ The test [video](https://www.youtube.com/watch?v=K1QICrgxTjA&t=131s&ab_channel=L
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/linknet-mobilenetv2.png" alt="Layer distribution of linknet-mobilenetv2.mlmodel"></img><p>linknet-mobilenetv2.mlmodel</p>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/linknet-mobilenetv2.png" alt="Layer distribution of linknet-mobilenetv2.mlmodel"></img><p align="center">linknet-mobilenetv2.mlmodel</p>
         </td>
         <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/linknet-resnet18.png" alt="Layer distribution of linknet-resnet18.mlmodel"></img><p>linknet-resnet18.mlmodel</p>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/linknet-resnet18.png" alt="Layer distribution of linknet-resnet18.mlmodel"></img><p align="center">linknet-resnet18.mlmodel</p>
         </td>
     </tr>
     <tr>
     <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/unet-mobilenetv2.png" alt="Layer distribution of unet-mobilenetv2.mlmodel"></img><p>unet-mobilenetv2.mlmodel</p>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/unet-mobilenetv2.png" alt="Layer distribution of unet-mobilenetv2.mlmodel"></img><p align="center">unet-mobilenetv2.mlmodel</p>
         </td>
         <td>
-            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/unet-resnet18.png" alt="Layer distribution of unet-resnet18.mlmodel"></img><p>unet-resnet18.mlmodel</p>
+            <img src="https://github.com/erdemunal35/Real-time-Video-Segmentation-on-Iphone/blob/master/github_data/unet-resnet18.png" alt="Layer distribution of unet-resnet18.mlmodel"></img><p align="center">unet-resnet18.mlmodel</p>
         </td>
     </tr>
 </table>
