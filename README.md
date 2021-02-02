@@ -4,7 +4,7 @@ This repository provides analysis of different segmentation CoreML models on pre
 
 The test [video](https://www.youtube.com/watch?v=K1QICrgxTjA&t=131s&ab_channel=LoungeVFilms-RelaxingMusicandNatureSounds) used in the illustrations below is recorded via Iphone XR camera and the mask prediction is computed in real-time.
 
-<table>
+<table align="center">
     <tr>
         <td colspan=3 align="center"><b>Real-time water surface segmentation using different encoder-decoder pairs on iPhone XR<b></td>
     </tr>
@@ -26,7 +26,7 @@ The test [video](https://www.youtube.com/watch?v=K1QICrgxTjA&t=131s&ab_channel=L
     </tr>
 </table>
 
-<table>
+<table align="center">
     <tr>
         <td colspan=2 align="center"><b>Layer distributions of CoreML models<b></td>
     </tr>
