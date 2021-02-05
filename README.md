@@ -1,6 +1,6 @@
 # Real-time Video Segmentation on iPhone
 
-This repository provides analysis of different segmentation CoreML models on predicting water surface. CoreML models were originally trained with PyTorch and later converted to CoreML from .pth. You can find [the main repository](https://github.com/erdemunal35/Water-Segmentation-Networks) for more information about how these models were constructed, trained with PyTorch and converted to CoreML. Currently, only linknet-mobilenetv2.mlmodel is available in the repository since other models exceed 25Mb threshold.
+This repository provides analysis of different segmentation CoreML models on predicting water surface. CoreML models were originally trained with PyTorch and later converted to CoreML from .pth. You can find [the main repository](https://github.com/erdemunal35/WaterSegNets) for more information about how these models were constructed, trained with PyTorch and converted to CoreML. Currently, only linknet-mobilenetv2.mlmodel is available in the repository since other models exceed 25Mb threshold.
 
 The test [video](https://www.youtube.com/watch?v=K1QICrgxTjA&t=131s&ab_channel=LoungeVFilms-RelaxingMusicandNatureSounds) used in the illustrations below is recorded via Iphone XR camera and the mask prediction is computed in real-time.
 
