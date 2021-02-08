@@ -49,4 +49,4 @@ The test [video](https://www.youtube.com/watch?v=K1QICrgxTjA&t=131s&ab_channel=L
 </table>
 
 ## Acknowledgement
-The XCODE project in this repository is directly built on [ESPNetv2-COREML](https://github.com/sacmehta/ESPNetv2-COREML) repository with no major change at all. Many thanks to [sacmehta](https://github.com/sacmehta) for providing the Swift environment. It enabled me to run my trained CoreML models from the repository [Water-Segmentation-Networks](https://github.com/erdemunal35/Water-Segmentation-Networks) succesfully.
+The XCODE project in this repository is directly built on [ESPNetv2-COREML](https://github.com/sacmehta/ESPNetv2-COREML) repository with no major change. Many thanks to [sacmehta](https://github.com/sacmehta) for providing the Swift environment. It enabled me to run my trained CoreML models from the repository [Water-Segmentation-Networks](https://github.com/erdemunal35/Water-Segmentation-Networks) succesfully.
